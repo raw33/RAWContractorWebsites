@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+*.log
+SOURCE_NOTES.md
+INTAKE.md
+Leads/
+Portal/
